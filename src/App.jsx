@@ -1,11 +1,8 @@
 import "./App.css";
+import Header from "./Header";
 
 function App() {
-  return (
-    <>
-      <h1>CineRental</h1>
-    </>
-  );
+  return <Header></Header>;
 }
 
 export default App;
